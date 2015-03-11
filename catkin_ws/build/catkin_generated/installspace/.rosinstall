@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vgan/code/ros-indigo-tutorials/catkin_ws/install/setup.sh
