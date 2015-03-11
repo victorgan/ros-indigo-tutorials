@@ -1,2 +1,2 @@
-
+beginner_tutorials
 -DCATKIN_DEVEL_PREFIX=/home/vgan/code/ros-indigo-tutorials/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vgan/code/ros-indigo-tutorials/catkin_ws/install -G Unix Makefiles
