@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'indigo
+
+  '
+roslaunch:
+  uris: {host_bondar__46794: 'http://bondar:46794/'}
+rosversion: '1.11.10
+
+  '
+run_id: bed71c64-c835-11e4-a5b8-fcaa14b1b7cf
